@@ -42,10 +42,6 @@ The project offers actionable insights for understanding trends and strategies i
 
 ### Key Takeways 
   
-In our dataset, Some parameters were assigned value 0, representing those parameters are not applicable for some customers.
-
-All these values have been ignored while calculating average rating for each of the parameters mentioned above.
-
  
 - 1 : Team Performance Insights
 
